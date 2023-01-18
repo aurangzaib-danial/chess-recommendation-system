@@ -1,4 +1,8 @@
-# Chess Recommendation System [uwyo-cosc-4550-project]
+# Chess Recommendation System 
+This was a group project. This application builds on the idea of search and rescue. The AI agent helps a user in determining best options from a limited number of supplies.
+
+## Walk-through
+https://youtu.be/v86A5_wR2zE
 
 ## Requirements
 - Python version 3.7 or above
